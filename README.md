@@ -41,8 +41,6 @@
 | 1600   | 8.192 млрд|
 | 2000   | 16 млрд   |
 
-<img width="1800" height="1200" alt="lab3_mflops" src="https://github.com/user-attachments/assets/e24c99fe-c561-457c-bb37-1f0d11a0c4ee" />
-
 <img width="1800" height="1200" alt="lab3_time" src="https://github.com/user-attachments/assets/0f252f77-5123-4d87-9219-c2e953e5d556" />
 
 ## 4. Выводы
