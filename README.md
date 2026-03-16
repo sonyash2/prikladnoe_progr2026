@@ -43,6 +43,8 @@
 
 <img width="1800" height="1200" alt="lab3_time" src="https://github.com/user-attachments/assets/0f252f77-5123-4d87-9219-c2e953e5d556" />
 
+<img width="1800" height="1200" alt="lab3_mflops" src="https://github.com/user-attachments/assets/315f3d16-b7ec-4cb5-b492-99541e4c0aeb" />
+
 ## 4. Выводы
 
 1.Программа успешно распараллелена с помощью MPI
