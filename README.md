@@ -94,6 +94,14 @@
 | 2 → 4           | +1415.4                | +1.39                     |
 | 4 → 8           | +663.3                 | +0.66                     |
 
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/9ffea51a-4208-4743-8115-b215ed211af4" />
+
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/6b31dd64-aa10-48ab-9671-b64b7db616ea" />
+
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/d53ac155-ce04-430a-8961-8629bed8a9b4" />
+
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/a3287709-0edb-4c80-9929-7931bf5ebd4b" />
+
 ## 4. Анализ результатов
 
 1.  **Корректность вычислений:**
